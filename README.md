@@ -1,7 +1,7 @@
 ### Hi there 👋 welcome to my Github profile. Get to know me a little better...  
 #
 - 🚀 I'm currently working on PUC-RIO in Tecgraf Institute, feel free to check out my [workhistory](https://www.linkedin.com/in/antonio-dantas/) if you’re curious about my journey;
-- 🎓 I’m also a professor at [FATEC São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), if you’re curious about technology, innovation, and applied learning, come visit us;
+- 🎓 I’m also a professor at [FATEC São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), if you’re curious about technology, innovation, and applied learning, come visit us and discover how amazing it is to study here;
 - 📊 I'm happily pursuing my PhD at Unifesp, always excited to explore and share new [research insights](https://scholar.google.com/citations?user=tuCEPQQAAAAJ);
 - 📚 I’m currently diving deeper into [LangGraph](https://www.langchain.com/langgraph) at work, it’s been an amazing learning adventure;
 - 👯 I’m open and enthusiastic to collaborate on .Net repositories – let’s build something great together!
