@@ -5,7 +5,7 @@
 - 📊 I'm happily pursuing my PhD at Unifesp, always excited to explore and share new [research insights](https://scholar.google.com/citations?user=tuCEPQQAAAAJ);
 - 📚 I’m currently diving deeper into [LangGraph](https://www.langchain.com/langgraph) at work, it’s been an amazing learning adventure;
 - 👯 I’m open and enthusiastic to collaborate on .Net repositories – let’s build something great together!
-- 💬 Ask me about anything really, I will do my absolute best to anwser you appropriately :smile: if you want, you can even ask on [this repo's issues](https://github.com/AntonioDantas/AntonioDantas/issues);
+- 💬 Ask me about anything really, I will do my absolute best to anwser you appropriately. If you want, you can even ask on [this repo's issues](https://github.com/AntonioDantas/AntonioDantas/issues);
 - 🌱 Hobbies and interests: having fun with my kids, playing music & percussion, and exploring exciting new technologies;
 - 😄 Pronouns: he/ele;  
 #
@@ -17,6 +17,6 @@ This is a reflection of my online codes...
 
 If you read this far, you’ve earned a virtual ☕ and a `git stash` for today’s problems.  
 
-Let’s code — and if anything explodes, we’ll open a PR to fix it! 🚀
+Let’s code and if anything explodes, we’ll open a PR to fix it! 🚀
 
 — Your friendly neighborhood programmer 😄
