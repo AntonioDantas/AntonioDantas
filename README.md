@@ -1,5 +1,26 @@
-### Hi there 👋 welcome to my Github profile. Get to know me a little better...  
-#
+### Hi there 👋 welcome to my Github profile. 
+## In short...
+
+```csharp
+public class CodeCrafter
+{
+    public string Name { get; private set; } = "Antonio Dantas";
+    public string Location { get; private set; } = "São Paulo/Brazil";
+    public string[] SpokenLanguages { get; private set; } = { "pt-BR", "en-US" };
+    public Dictionary<string, string[]> RankedTechStack { get; private set; } = new()
+    {
+        ["Backend"] = [".NetCore S2", "Python", "Java"],
+        ["Databases"] = ["MongoDB", "SQLServer", "PostgreSQL"],
+        ["Frontend"] = ["Angular :)", "React", "Razor Pages", "WebForms (X_X)"],
+        ["DevOps"] = ["Azure", "Docker", "CI/CD", "Jenkins", "GitHub Actions"],
+        ["Architecture"] = ["Microservices", "SOLID", "Clean Architecture", "DDD"]
+    };
+    public string[] LearningNext { get; private set; } = ["LangGraph", "Metaheuristics"];
+    public string GetCodingPhilosophy() =>  "Science is what we understand well enough to explain to a computer. Art is everything else we do. - Donald Knuth";
+}
+```
+
+## Get to know me a little better...  
 - 🚀 I'm currently working on PUC-RIO in Tecgraf Institute, feel free to check out my [workhistory](https://www.linkedin.com/in/antonio-dantas/) if you’re curious about my journey;
 - 🎓 I’m also a professor at [FATEC São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), if you’re curious about technology, innovation, and applied learning, come visit us and discover how amazing it is to study here;
 - 📊 I'm happily pursuing my PhD at Unifesp, always excited to explore and share new [research insights](https://scholar.google.com/citations?user=tuCEPQQAAAAJ);
